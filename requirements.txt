@@ -1,0 +1,11 @@
+blinker
+click
+dnspython
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+PyJWT
+pymongo
+python-dotenv
+Werkzeug
